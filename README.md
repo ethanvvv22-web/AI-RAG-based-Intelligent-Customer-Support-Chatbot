@@ -68,4 +68,33 @@ This example shows how the system retrieves relevant knowledge using the RAG pip
 <img width="1257" height="765" alt="image" src="https://github.com/user-attachments/assets/59e3a0e3-a0b0-48a0-9255-3f3474c4cffd" />
 
 
+### 📊 Usage Report Generation
+
+The system supports generating personalized monthly usage reports for robotic vacuum users.
+
+It follows a structured tool-calling workflow:
+
+1. Retrieve user ID  
+2. Get the current or specified month  
+3. Inject report context  
+4. Fetch external usage data  
+5. Generate a summarized report using the LLM  
+
+#### 🔄 Workflow
+
+User Request → Agent → Tool Chain → Report Generation
+
+#### 🛠️ Tools Involved
+
+- `get_user_id`: Retrieve user identity  
+- `get_current_month`: Determine report period  
+- `fill_context_for_report`: Prepare report context  
+- `fetch_external_data`: Fetch usage data
+  
+#### 💬 Example
+<img width="477" height="123" alt="image" src="https://github.com/user-attachments/assets/fa8da915-2f0d-4b59-ac7d-102f11721df4" />
+<img width="1043" height="603" alt="image" src="https://github.com/user-attachments/assets/ef26d25b-6e59-4b47-b7d8-c0e0f73ce78d" />
+<img width="1122" height="560" alt="image" src="https://github.com/user-attachments/assets/49817837-fdf8-423b-ac20-cb6cffd1bdbe" />
+<img width="1021" height="576" alt="image" src="https://github.com/user-attachments/assets/6dc733c5-a40e-48f4-bdb0-d8fc499c6cf7" />
+
 
