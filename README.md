@@ -49,5 +49,12 @@ User Query → Agent → Tool Selection → RAG Retrieval → LLM → Final Answ
 - Flask (or FastAPI)
 - Docker (optional)
 
+## 🖥️ Demo
 
+Below is a screenshot of the system interface:
 <img width="844" height="416" alt="image" src="https://github.com/user-attachments/assets/ab67caed-26ef-49e7-b67d-fc67fbd566c4" />
+
+The system allows users to ask questions about robotic vacuum cleaners, and the agent will:
+- Understand user intent
+- Retrieve relevant knowledge using RAG
+- Generate accurate responses using LLM
