@@ -72,20 +72,20 @@ class VectorStoreService:
             md5_hex = get_file_md5_hex(path)
 
             if check_md5_hex(md5_hex):
-                logger.info(f"[加载知识库]{path}内容已经存在知识库内，跳过")
+                logger.info(f"[Loading knowledge base]{path}The content already exists in the knowledge base, skip this step.")
                 continue
 
             try:
                 documents: list[Document] = get_file_documents(path)
 
                 if not documents:
-                    logger.warning(f"[加载知识库]{path}内没有有效文本内容，跳过")
+                    logger.warning(f"[Loading knowledge base]{path}no valid text content, skip.")
                     continue
 
                 split_document: list[Document] = self.spliter.split_documents(documents)
 
                 if not split_document:
-                    logger.warning(f"[加载知识库]{path}分片后没有有效文本内容，跳过")
+                    logger.warning(f"[Loading knowledge base]{path}if no valid text content is found after fragmentation, skip.")
                     continue
 
                 # 将内容存入向量库
@@ -94,10 +94,10 @@ class VectorStoreService:
                 # 记录这个已经处理好的文件的md5，避免下次重复加载
                 save_md5_hex(md5_hex)
 
-                logger.info(f"[加载知识库]{path} 内容加载成功")
+                logger.info(f"[Loading knowledge base]{path} Content loaded successfully")
             except Exception as e:
                 # exc_info为True会记录详细的报错堆栈，如果为False仅记录报错信息本身
-                logger.error(f"[加载知识库]{path}加载失败：{str(e)}", exc_info=True)
+                logger.error(f"[Loading knowledge base]{path}Loading failed：{str(e)}", exc_info=True)
                 continue
 
 
@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
     retriever = vs.get_retriever()
 
-    res = retriever.invoke("迷路")  
+    res = retriever.invoke("get lost")
     for r in res:
         print(r.page_content)
         print("-"*20)

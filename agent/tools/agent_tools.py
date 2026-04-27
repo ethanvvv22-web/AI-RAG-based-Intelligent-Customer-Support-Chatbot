@@ -17,6 +17,7 @@ external_data = {}
 
 @tool(description="Retrieving references from vector storage")
 def rag_summarize(query: str) -> str:
+    print("RAG tool called with query:", query)
     return rag.rag_summarize(query)
 
 

@@ -1,6 +1,6 @@
 
 """
-总结服务类：用户提问，搜索参考资料，将提问和参考资料提交给模型，让模型总结回复
+Summary service type: Users ask questions, search for references, submit their questions and references to the model, and the model summarizes and responds.
 """
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
@@ -41,7 +41,7 @@ class RagSummarizeService(object):
         counter = 0
         for doc in context_docs:
             counter += 1
-            context += f"【参考资料{counter}】: 参考资料：{doc.page_content} | 参考元数据：{doc.metadata}\n"
+            context += f"【References{counter}】: References：{doc.page_content} | Reference metadata：{doc.metadata}\n"
 
         return self.chain.invoke(
             {
@@ -54,4 +54,4 @@ class RagSummarizeService(object):
 if __name__ == '__main__':
     rag = RagSummarizeService()
 
-    print(rag.rag_summarize("小户型适合哪些扫地机器人"))
+    print(rag.rag_summarize("Which robot vacuum cleaners are suitable for small apartments?"))
