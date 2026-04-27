@@ -1,0 +1,223 @@
+200 Buying Guide Points for Robotic Vacuum Cleaners/Moppers
+
+1. Core Selection Principles: Prioritize your intended use case. For single-person homes and small apartments, lightweight and flexible design is key. For larger families with pets, enhanced suction power and anti-tangling features are essential.
+
+2. Suction Power: For home use, choose a model with ≥3000Pa suction power. For carpeted areas, ≥4000Pa is recommended. Adjustable suction power adapts better to different floor types.
+
+3. Navigation Technology: Laser navigation offers precise positioning and strong anti-interference capabilities, suitable for complex floor plans. Visual navigation offers high cost-effectiveness but should be avoided in bright light environments.
+
+4. Obstacle Avoidance: 3D structured light obstacle avoidance has superior accuracy compared to infrared, effectively avoiding small objects. This feature is preferred for families with pets.
+
+5. Battery Life: Small apartments (≤80㎡) require ≥60 minutes of runtime. Larger apartments (≥120㎡) are recommended to have ≥120 minutes of runtime. Support for resuming cleaning after interruption is more practical.
+
+6. Water Tank Capacity: A clean water tank ≥300ml and a wastewater tank ≥250ml are suitable for large homes. For smaller homes, a capacity of around 200ml is recommended to reduce the machine's weight.
+
+7. Mop Type: Electric rotary mops offer superior cleaning power compared to static pressure mops, essential for stubborn stains. For wooden floors, a model with a liftable mop is recommended.
+
+8. Dust Collection Function: Automatic dust collection is the preferred choice for those who prefer convenience. A dust bag capacity ≥2.5L reduces the frequency of replacements. Choose a model with a sealed, leak-proof design.
+
+9. Automatic Mop Wash: Prioritize models with hot air drying to prevent mold and odor from the mop. A washing speed ≥150 rpm ensures a more thorough cleaning.
+
+10. Brand Selection: Leading brands (Ecovacs, Roborock) offer better quality control and after-sales service. For lesser-known brands, confirm the availability of local service centers.
+
+11. Body Height: For areas under beds/sofas with a height ≤8cm, choose a model with a body height ≤7.5cm to avoid being unable to reach cleaning dead spots.
+
+12. Obstacle Crossing Ability: For threshold height ≤2cm, choose a model with an obstacle crossing height ≥2cm. For carpeted areas, enhance drive wheel power to prevent getting stuck.
+
+13. Filtration System: HEPA filter grade ≥H13 filters fine dust and allergens, essential for families with allergies. Note whether the filter is washable.
+
+14. Main Brush Design: Anti-tangling main brush (with silicone strip) is suitable for families with long hair/pets. Models without a main brush are suitable for short-pile carpets and hard floors.
+
+15. Side Brush Configuration: Dual side brushes offer better cleaning coverage than single side brushes, providing more thorough cleaning of corners. Adjustable speed models adapt to different floor types.
+
+16. APP Functionality: Supports basic functions such as zone cleaning, no-go zone settings, and scheduled tasks. Advanced features include voice control and multi-floor mapping.
+
+17. Network Compatibility: Confirm support for 2.4G/5G dual-band WiFi. For models using only 2.4G, ensure your router has complete signal coverage.
+
+18. Noise Control: Operating noise ≤55dB is more suitable for bedroom use. Noise will increase in carpet mode; prioritize models with noise-reducing motors.
+
+19. Battery Type: Lithium batteries offer superior battery life and durability compared to nickel-cadmium batteries. A capacity ≥5200mAh is suitable for larger homes, and fast charging is more convenient.
+
+20. Charging Efficiency: Fast charging mode (fully charged in 2 hours) is suitable for frequent use; regular charging (3-4 hours) offers better value.
+
+21. Material Selection: ABS wear-resistant material is preferred for the outer shell; stainless steel is used for the mop holder to prevent rust; and food-grade silicone is used for the sealing ring.
+
+22. Cleaning Modes: Essential modes include Auto, Edge Cleaning, and Spot Cleaning. Advanced options include Carpet Booster, Silent Clean, and Intensive Cleaning modes to suit different scenarios.
+
+23. Wastewater Tank Design: Equipped with a float sensor to prevent wastewater backflow; easy-to-disassemble and clean for added peace of mind, avoiding residual odors.
+
+24. Water Tank Sealing: Utilizes a double-seal design to prevent water leakage and damage to internal components; tilt the unit during testing.
+
+25. Voice Control: Supports mainstream voice assistants such as Xiao Ai and Tmall Genie, offering convenient operation for those who prefer a simpler experience; ensures accurate voice recognition.
+
+26. Multi-Floor Map: Essential for duplex apartments; stores ≥3 maps; accurate positioning when switching floors.
+
+27. Child Lock Function: Requires activation for families with children to prevent accidental operation; settings can be configured on both the unit buttons and the app.
+
+28. After-Sales Policy: Prioritizes models with a ≥2-year warranty on the entire unit and a ≥3-year warranty on core components (motor, battery); after-sales response time is ≤24 hours.
+
+29. Accessory Costs: Confirm the prices of easily worn parts such as filters, mops, and side brushes. Choose a versatile and cost-effective model to reduce long-term operating costs.
+
+30. Weight Control: A machine weighing ≤5kg is easier to move manually, making cleaning the charging dock and moving it to different floors less strenuous.
+
+31. Floor Compatibility: For wooden floors, choose a model with a liftable mop and adjustable water output. For tile floors, prioritize a combination of strong suction and a rotating mop.
+
+32. Pet-Friendly: For pet-owning families, pay extra attention to anti-hair tangling and odor removal functions. Choose a model with a pet mode for enhanced hair removal.
+
+33. Dust Handling: In scenarios with a lot of fine dust (such as after renovations), choose a model with a sealed dust box and high-efficiency filtration to avoid secondary dust generation.
+
+34. Ease of Use: For elderly users, prioritize models with simple buttons and an intuitive app interface to avoid complicated settings.
+
+35. Firmware Update: Supports OTA online upgrades, optimizing navigation algorithms and adding new features to ensure a continuously evolving user experience.
+
+36. Charging Base Design: Charging contacts have an anti-oxidation coating, an anti-slip base prevents shifting, and supports automatic recharging with an accuracy of ≥95%.
+
+37. Body Buttons: Equipped with at least power-on, recharging, and cleaning shortcut buttons; buttons offer clear feedback, and a waterproof design facilitates cleaning.
+
+38. Anti-Fall Function: ≥4 anti-fall sensors on the bottom provide a wide detection range, preventing damage from falls from stairs or high platforms.
+
+39. Drive Wheel Material: Rubber material offers superior anti-slip properties compared to plastic; textured design enhances grip, suitable for carpets and slippery surfaces.
+
+40. Omnidirectional Wheel Design: Allows for 360° rotation without jamming; features anti-tangle covers to prevent hair from tangling and affecting steering.
+
+41. Cleaning Coverage: When purchasing, refer to actual measured coverage of ≥98% to avoid missing large areas. Prioritize models with planned cleaning strategies.
+
+42. Water Output Adjustment: At least 3 adjustable levels: low for hardwood floors, medium for tiles, and high for stubborn stains, precisely adapting to different scenarios.
+
+43. Cleaning Solution Compatibility: Supports adding dedicated cleaning solutions, avoiding the use of highly corrosive cleaners. Some models feature automatic cleaning solution mixing.
+
+44. Waterproofing: Waterproof rating ≥IPX4, capable of handling damp floors and light water spray, preventing water ingress and short circuits.
+
+45. Heat Dissipation Design: The motor's heat dissipation vents are strategically positioned to prevent obstruction by debris, preventing overheating during prolonged operation and protecting motor lifespan.
+
+46. Map Editing: Supports manually drawing cleaning areas, deleting incorrect maps, and adjusting no-go zones to adapt to complex floor plans.
+
+47. Resume Cleaning After Disconnection: Cleaning can resume after the battery is depleted and recharged, avoiding repeated cleaning and saving time and energy.
+
+48. Energy Control: Battery life can be extended by more than 30% in energy-saving mode. Select energy-saving mode for daily cleaning and switch to powerful mode for stubborn stains.
+
+49. Design: The body color matches the home style. The simple matte material is dirt-resistant and easy to clean, avoiding fingerprints on high-gloss materials.
+
+50. Packaging Protection: Check the packaging for damage and ensure all accessories are included (charging base, power cord, filter, mop, etc.) and there are no signs of dents or damage.
+
+51. Real-world Testing: If possible, try it out on-site to test navigation accuracy, obstacle avoidance, suction power, and mopping performance.
+
+52. User Reviews: Prioritize checking genuine user reviews, focusing on long-term feedback on battery life, obstacle avoidance, and after-sales service, avoiding models with concentrated negative reviews.
+
+53. Price Range: Choose the basic model (laser navigation + rotating mop) within a budget of 3000 yuan; for over 5000 yuan, choose the model with automatic dust collection + hot air drying.
+
+54. Promotional Opportunities: Significant price discounts are available during major promotional events like 618 and Double 11. Some models can be combined with coupons and gifts to reduce the purchase cost.
+
+55. Identifying Refurbished Machines: Check the manufacturing date using the serial number and inspect the screws for signs of disassembly. Prioritize purchasing from official channels.
+
+56. Zone Cleaning: Supports customizable zone size, capable of cleaning areas ≤1㎡, suitable for cleaning localized stains.
+
+57. Scheduled Cleaning: Allows setting a fixed cleaning time daily, with weekly recurring settings to meet regular cleaning needs.
+
+58. Battery Reminder: Dual low battery alerts via the app and machine indicator light; automatically returns to charging dock when remaining battery is ≥20% to prevent premature shutdown.
+
+59. Motor Type: Brushless motors are quieter and have a longer lifespan (≥5000 hours), superior to brushed motors. Prioritize brushless motor models.
+
+60. Dustbin Capacity: ≥500ml reduces cleaning frequency. For pet-owning households, ≥600ml is recommended. A sealed dustbin prevents odor spread.
+
+61. Filter Replacement: Washable filters are more economical and environmentally friendly. It is recommended to clean them 1-2 times per month. Replace non-washable filters every 3 months.
+
+62. Mop Replacement: Velcro design facilitates removal and replacement. The mop cloth is made of microfiber, offering strong water absorption, good stain removal, and minimal lint shedding.
+
+63. Side Brush Lifespan: High-quality side brushes have a lifespan of ≥3 months. Choose models where individual side brushes can be replaced to avoid waste.
+
+64. Navigation Algorithm: Prioritize models using SLAM algorithms for faster mapping speeds, higher accuracy, and reduced risk of getting lost in complex layouts.
+
+65. Obstacle Avoidance Range: 3D obstacle avoidance recognition distance ≥30cm, allowing for early obstacle avoidance and reducing collisions and getting stuck.
+
+66. Carpet Recognition: Automatically recognizes carpets and activates boost mode; returns to normal suction power after leaving the carpet, saving energy.
+
+67. Anti-Tangle Technology: Main brush features automatic hair cutting, suitable for households with long hair, avoiding manual disassembly and cleaning.
+
+68. Body Interface: Includes a charging port for emergency charging; some models have a USB port for temporarily powering other devices.
+
+69. Cleaning Log: The app displays cleaning time, area, and path for easy monitoring and optimization of cleaning plans.
+
+70. Fault Self-Diagnosis: The machine automatically detects faults and displays notifications in the app for quick troubleshooting, reducing after-sales communication costs.
+
+71. Remote Control: Supports remote control cleaning; can be started while traveling, allowing you to enjoy a clean environment upon returning home.
+
+72. Multi-device integration: Can be integrated with smart home devices (such as smart speakers and cameras) for scenario-based cleaning.
+
+73. Body size: Width ≤ 35cm for easy maneuvering through furniture gaps; length ≤ 35cm for improved maneuverability.
+
+74. Charging power: Charging power ≥ 15W for faster charging; power ≤ 10W for more energy saving; choose according to your needs.
+
+75. Battery cycle life: Capacity decay ≤ 20% after ≥ 500 cycles; high-quality batteries can last 2-3 years without replacement.
+
+76. Anti-oxidation treatment: Charging contacts, screws, and other metal parts are treated with anti-oxidation to extend the lifespan of the machine and prevent rust.
+
+77. Cleaning mode memory: Remembers the last used cleaning mode and parameters, allowing for direct use upon next startup without repeated settings.
+
+78. Quiet design: Utilizes noise-reducing air ducts and shock-absorbing feet; noise level ≤ 50dB during operation, will not disturb daily rest or work.
+
+79. Wet Mopping No-Go Zone: A wet mopping no-go zone can be set to avoid mopping carpets, wooden floor edges, etc., preventing moisture damage.
+
+80. Dry Mopping Function: A separate dry mopping mode is available for daily dust removal, avoiding damp floors after wet mopping.
+
+81. Stubborn Stain Removal: Supports targeted repeated cleaning (≥3 times). The rotating mop with pressure design easily removes stubborn stains.
+
+82. Body Ventilation Holes: Ventilation holes are equipped with dust filters to prevent dust from entering the motor, affecting heat dissipation and lifespan.
+
+83. Movement Speed: Cleaning speed ≥0.3m/s for higher efficiency. Supports speed adjustment, and a silent mode reduces speed and noise.
+
+84. Recharging Accuracy: Recharging accuracy ≥90% in complex environments, preventing battery depletion due to not finding the charging dock.
+
+85. Accessory Storage: Some models include an accessory storage box for easy storage of filters, mop cloths, and other easily damaged parts, keeping them neat and tidy.
+
+86. Cleaning Fluid Capacity: The cleaning fluid tank has a capacity of ≥100ml, enough for 1-2 weeks of use, avoiding frequent refills.
+
+87. Indicator Lights: Different colored indicator lights distinguish between working, charging, and malfunctioning statuses, providing a clear understanding of the machine's condition.
+
+88. Anti-Tipping Design: The machine has a low center of gravity, preventing tipping on slopes or uneven surfaces, protecting the machine and furniture.
+
+89. Software Stability: The app experiences no frequent lag or crashes, with a connection stability of ≥95%, preventing control failures.
+
+90. Language Support: The app supports multiple languages, suitable for foreign users, with a simple and easy-to-understand interface.
+
+91. Dust Sensor: Equipped with a dust sensor, it automatically detects the dust concentration on the floor and adjusts the suction power accordingly, ensuring energy efficiency.
+
+92. Corner Cleaning: The retractable side brush design allows for cleaning close to corners, reducing cleaning dead zones.
+
+93. Body Protection: Corner bumpers provide cushioning to reduce damage to the machine and furniture during collisions.
+
+94. Installation Ease: The charging dock requires no complicated installation; simply plug it in to use. Some models include positioning stickers for easy fixation.
+
+95. Portability: The machine features a carrying handle for easy transport, suitable for frequent movement.
+
+96. Water Quality Compatibility: The water tank supports both tap water and purified water. Some models include a water filter to prevent scale buildup and pipe blockage.
+
+97. Cleaning Area: Single-cycle cleaning area ≥100㎡ is suitable for large homes; ≥60㎡ is sufficient for smaller homes.
+
+98. Motor Power: The vacuum motor has a power of ≥300W for stronger suction, and the mop motor has a power of ≥20W for more powerful rotation.
+
+99. Cable Length: The charging dock's power cord is ≥1.5m long, allowing for flexible placement of the charging port and avoiding insufficient power outlets.
+
+100. Warranty Coverage: The warranty coverage is clearly defined. Damage caused by human error (such as drops or water damage) is not covered. Additional accidental damage insurance can be purchased at the time of purchase.
+
+101. Resale Value: Models from leading brands have higher resale value, reducing losses when replacing the machine later.
+
+102. Cleaning Order: Supports customizable cleaning order (e.g., inside to outside, left to right) to suit different apartment layouts and cleaning habits.
+
+103. Anti-Hair Tangle Side Brush: The side brush features a silicone anti-tangle strip to reduce hair entanglement and make cleaning easier.
+
+104. Weight Distribution: Even weight distribution prevents uneven movement or cleaning caused by one side being too heavy.
+
+105. Filter Material: The HEPA filter is made of glass fiber, offering superior filtration compared to non-woven fabrics and a longer lifespan.
+
+106. Mop Pressure: The electric mop pressure is ≥5N, enhancing cleaning power and preventing incomplete cleaning by the mop lightly touching the floor.
+
+107. Dust Collection Motor: The automatic dust collection model features a motor with a suction power ≥2000Pa, ensuring complete suction of dust from the dustbin into the dust collection bag.
+
+108. Dust Collection Bag Material: Non-woven fabric dust collection bags prevent dust leakage, have a large capacity, and are made of biodegradable material for greater environmental friendliness; choose according to your needs.
+
+109. Hot Air Drying Temperature: The automatic mop washing model has a drying temperature ≥50℃ and a drying time ≤2 hours, preventing the mop from becoming damp and moldy.
+
+110. Drying Noise: The noise level during hot air drying is ≤50dB, avoiding excessive noise that could disrupt daily life.
+
+111. Navigation Transmission

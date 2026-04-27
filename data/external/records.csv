@@ -1,0 +1,19 @@
+user_id,feature,efficiency,consumables,comparison,time
+user_001,High Frequency Usage,95%,Filter remaining 30%,Increased by 10% from last month,2026-04
+user_001,Normal Usage,88%,Filter remaining 60%,Same as last month,2026-03
+user_001,Low Frequency Usage,75%,Filter remaining 80%,Decreased by 5% from last month,2026-02
+user_001,High Frequency Usage,92%,Filter remaining 25%,Increased by 15% from last month,2026-01
+user_001,Normal Usage,85%,Filter remaining 55%,Same as last month,2025-12
+user_001,High Frequency Usage,90%,Filter remaining 40%,Increased by 8% from last month,2025-11
+user_001,Normal Usage,83%,Filter remaining 65%,Decreased by 2% from last month,2025-10
+user_001,High Frequency Usage,93%,Filter remaining 35%,Increased by 12% from last month,2025-09
+user_001,Normal Usage,86%,Filter remaining 58%,Same as last month,2025-08
+user_001,Low Frequency Usage,72%,Filter remaining 85%,Decreased by 8% from last month,2025-07
+user_002,Normal Usage,82%,Filter remaining 70%,Decreased by 3% from last month,2026-04
+user_002,Low Frequency Usage,70%,Filter remaining 90%,Same as last month,2026-03
+user_002,Normal Usage,80%,Filter remaining 75%,Increased by 5% from last month,2026-02
+user_002,High Frequency Usage,88%,Filter remaining 45%,Increased by 10% from last month,2026-01
+user_003,High Frequency Usage,98%,Filter remaining 15%,Increased by 20% from last month,2026-04
+user_003,Normal Usage,87%,Filter remaining 50%,Increased by 5% from last month,2026-03
+user_003,High Frequency Usage,95%,Filter remaining 28%,Increased by 18% from last month,2026-02
+user_003,Normal Usage,84%,Filter remaining 62%,Same as last month,2026-01
