@@ -92,14 +92,11 @@ User Request → Agent → Tool Chain → Report Generation
 - `fetch_external_data`: Fetch usage data
   
 #### 💬 Example
-<p>
-  <img src="https://github.com/user-attachments/assets/fa8da915-2f0d-4b59-ac7d-102f11721df4" width="48%" />
-  <img src="https://github.com/user-attachments/assets/ef26d25b-6e59-4b47-b7d8-c0e0f73ce78d" width="48%" />
-</p>
+<img src="https://github.com/user-attachments/assets/fa8da915-2f0d-4b59-ac7d-102f11721df4" width="600" />
 
-<p>
-  <img src="https://github.com/user-attachments/assets/49817837-fdf8-423b-ac20-cb6cffd1bdbe" width="48%" />
-  <img src="https://github.com/user-attachments/assets/6dc733c5-a40e-48f4-bdb0-d8fc499c6cf7" width="48%" />
-</p>
+<img src="https://github.com/user-attachments/assets/ef26d25b-6e59-4b47-b7d8-c0e0f73ce78d" width="600" />
 
+<img src="https://github.com/user-attachments/assets/49817837-fdf8-423b-ac20-cb6cffd1bdbe" width="600" />
+
+<img src="https://github.com/user-attachments/assets/6dc733c5-a40e-48f4-bdb0-d8fc499c6cf7" width="600" />
 
