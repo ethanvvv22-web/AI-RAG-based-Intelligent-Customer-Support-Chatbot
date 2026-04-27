@@ -63,9 +63,9 @@ The system allows users to ask questions about robotic vacuum cleaners, and the 
 
 This example shows how the system retrieves relevant knowledge using the RAG pipeline and generates a structured recommendation based on user requirements.
 
-<img width="1134" height="154" alt="image" src="https://github.com/user-attachments/assets/078e8470-a20c-48c5-a0c7-011081be356c" />
+<img src="https://github.com/user-attachments/assets/078e8470-a20c-48c5-a0c7-011081be356c" width="600" />
 
-<img width="1257" height="765" alt="image" src="https://github.com/user-attachments/assets/59e3a0e3-a0b0-48a0-9255-3f3474c4cffd" />
+<img src="https://github.com/user-attachments/assets/59e3a0e3-a0b0-48a0-9255-3f3474c4cffd" width="600" />
 
 
 ### 📊 Usage Report Generation
